@@ -52,7 +52,9 @@ The dataset was created to simulate real tutoring outcomes and includes:
 
 ## 📷 Dashboard Preview
 
-(Add your screenshots here after uploading them)
+![Overview](Screenshots/overview.png)
+![Improvement](Screenshots/improvement.png)
+![Success](Screenshots/success.png)
 
 ## 💡 About Me
 
